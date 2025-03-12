@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "chrono": "c",
+        "variant": "c",
+        "__locale": "c",
+        "stdio.h": "c",
+        "BOJ5.C": "cpp",
+        "sstream": "c"
+    }
+}
